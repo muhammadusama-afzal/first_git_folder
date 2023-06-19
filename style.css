@@ -1,3 +1,13 @@
 h1{
     background-color: greenyellow;
+    color: wheat;
+}
+h2 {
+    color: aqua;
+}
+h3 {
+    color: black;
+}
+body {
+    background-color: black;
 }
